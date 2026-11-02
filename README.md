@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @tabouzeid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
-
-<!---
-tabouzeid/tabouzeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi I'm Taher, I build backend systems that have to be right — twenty years across electronic trading, financial planning, insurance data platforms and mobile infrastructure, most of it in Java and distributed systems. These days most of my time goes to AI engineering: multi-agent systems, MCP integrations, RAG pipelines, evals and guardrails, and the development methodology that makes agent-written code auditable.
